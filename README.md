@@ -13,7 +13,7 @@ find an empty cell
       ▼
  is it valid?
    │       │
-  no      yes
+   no     yes
    │       │
    ▼       ▼
 next    place digit
